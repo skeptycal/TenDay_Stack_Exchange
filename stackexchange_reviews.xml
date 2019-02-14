@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="stackexchange">
+  <review>
+    <reviewbody>This is an Awesome Stuff..Cheers..:)</reviewbody>
+    <reviewtitle>Really Cool</reviewtitle>
+    <reviewer>Jenson555</reviewer>
+    <reviewdate>2014-07-26 17:26:21</reviewdate>
+    <createdate>2014-07-26 17:26:21</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>When will be latest dump from stackoverflow will be posted over here.</reviewbody>
+    <reviewtitle>Latest Dump.</reviewtitle>
+    <reviewer>shamsazad</reviewer>
+    <reviewdate>2014-08-19 18:03:56</reviewdate>
+    <createdate>2014-08-19 18:03:56</createdate>
+    <stars>4</stars>
+  </review>
+  <review>
+    <reviewbody>Thanks for the September update, eager to see the next one. Did someone try importing this data into a StackExchange instance?
+
+Fun to see how small the whole SE network is after all, only few GB compressed. Wikimedia projects dumps compress very well too, but they're still much bigger (while fitting a common hard disk anyway!).</reviewbody>
+    <reviewtitle>Thanks and tests</reviewtitle>
+    <reviewer>Nemo_bis</reviewer>
+    <reviewdate>2015-02-07 16:09:41</reviewdate>
+    <createdate>2015-02-07 16:09:41</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>Everybody's stuck at 70.7%</reviewbody>
+    <reviewtitle>Seeds for 3/16/15 version?</reviewtitle>
+    <reviewer>klitzkrieg</reviewer>
+    <reviewdate>2015-03-24 00:29:53</reviewdate>
+    <createdate>2015-03-24 00:29:53</createdate>
+    <stars>3</stars>
+  </review>
+  <review>
+    <reviewbody>It stopped at around 70%.</reviewbody>
+    <reviewtitle>No seed?</reviewtitle>
+    <reviewer>gnijuohz</reviewer>
+    <reviewdate>2015-03-25 18:38:34</reviewdate>
+    <createdate>2015-03-25 18:38:34</createdate>
+    <stars>3</stars>
+  </review>
+  <review>
+    <reviewbody>At the top right corner of this page there is  a link to zip archive.  I've downloaded it twice (on different machines, in different countries). The file was always broken.
+
+Torrent stucks on 70.8%.
+
+Can anyone help to get this file?</reviewbody>
+    <reviewtitle>File is broken</reviewtitle>
+    <reviewer>Ihor Bobak</reviewer>
+    <reviewdate>2015-03-27 08:12:23</reviewdate>
+    <createdate>2015-03-27 08:12:23</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>stuck at 70.7% download complete via utorrent- arg!
+
+this should be made avail via ftp!!!</reviewbody>
+    <reviewtitle>70%</reviewtitle>
+    <reviewer>big_t_dub</reviewer>
+    <reviewdate>2015-04-03 11:36:46</reviewdate>
+    <createdate>2015-04-02 23:11:48</createdate>
+    <stars>1</stars>
+  </review>
+  <review>
+    <reviewbody>I also tried couple of times. It was failed at the same point.
+But then I tried when I logged in, and I was able to download the whole file :-)</reviewbody>
+    <reviewtitle>Resolved!</reviewtitle>
+    <reviewer>alisa1</reviewer>
+    <reviewdate>2015-04-10 18:07:17</reviewdate>
+    <createdate>2015-04-10 18:07:17</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>Great data set. Thank you for sharing.
+
+I see only March data. How can I get April data?
+What about January and February?
+
+Thanks,
+Dmitry</reviewbody>
+    <reviewtitle>April data</reviewtitle>
+    <reviewer>dmpetrov</reviewer>
+    <reviewdate>2015-05-03 08:21:24</reviewdate>
+    <createdate>2015-05-03 08:21:24</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>Thanks for sharing the community data. It will greatly benefit research groups.</reviewbody>
+    <reviewtitle>Thanks for sharing</reviewtitle>
+    <reviewer>sathvik</reviewer>
+    <reviewdate>2015-05-22 09:47:06</reviewdate>
+    <createdate>2015-05-22 09:35:43</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>It stopped at around 70% for a couple of days and could never move forward.</reviewbody>
+    <reviewtitle>Bittorrent download broken</reviewtitle>
+    <reviewer>timiblossom</reviewer>
+    <reviewdate>2015-07-02 05:48:09</reviewdate>
+    <createdate>2015-07-02 05:48:09</createdate>
+    <stars>2</stars>
+  </review>
+  <review>
+    <reviewbody>There is some reasons for it https://archive.org/about/faqs.php#Archive_BitTorrents</reviewbody>
+    <reviewtitle>for those which can't make bittorent working</reviewtitle>
+    <reviewer>xcombelle</reviewer>
+    <reviewdate>2015-07-21 17:38:48</reviewdate>
+    <createdate>2015-07-21 17:38:48</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>I am unable to access the file stackexchange_meta.sqlite
+
+Does anyone know of a source for this file?</reviewbody>
+    <reviewtitle>Missing File</reviewtitle>
+    <reviewer>StevenLJohnson</reviewer>
+    <reviewdate>2015-08-31 14:48:11</reviewdate>
+    <createdate>2015-08-31 14:48:11</createdate>
+    <stars>3</stars>
+  </review>
+  <review>
+    <reviewbody>StevenLJohnson, I have the file and can open it without any problems. What exactly do you mean by "unable to access"? If you mean that you don't have the file, I can send it to you.</reviewbody>
+    <reviewtitle>stackexchange_meta.sqlite</reviewtitle>
+    <reviewer>D1Doris</reviewer>
+    <reviewdate>2015-09-04 02:23:09</reviewdate>
+    <createdate>2015-09-04 02:23:09</createdate>
+    <stars>4</stars>
+  </review>
+  <review>
+    <reviewbody>And that broke the webseeds (see https://archive.org/post/1047899 ). This review should hopefully fix the issue.</reviewbody>
+    <reviewtitle>This hit the shuffle.php bug</reviewtitle>
+    <reviewer>Jesse_W</reviewer>
+    <reviewdate>2015-11-06 08:08:01</reviewdate>
+    <createdate>2015-11-06 08:08:01</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>http://meta.stackexchange.com/questions/264565/when-was-the-last-data-dump-upload-to-archive-org</reviewbody>
+    <reviewtitle>The current dump is old from 2014-09</reviewtitle>
+    <reviewer>cirosantilli</reviewer>
+    <reviewdate>2015-11-21 13:35:24</reviewdate>
+    <createdate>2015-11-18 20:56:11</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>The bit torrent link:
+https://archive.org/download/stackexchange/stackexchange_archive.torrent
+
+appears to link to an older version of the data dump. For stackoverflow the latest post I saw was from 2014.
+
+However, if the .zip file 
+https://archive.org/compress/stackexchange/formats=7Z&amp;file=/stackexchange.zip
+
+appears to have data upto august 2015.</reviewbody>
+    <reviewtitle>torrent out of date</reviewtitle>
+    <reviewer>jlewi</reviewer>
+    <reviewdate>2015-12-30 06:00:45</reviewdate>
+    <createdate>2015-12-30 06:00:45</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>I see over 300 files, whereas there are only 6 XML files (large ones) as far as I remember. 
+
+I cannot download the torrent version either - can someone help make sense of the files?
+
+Shankar</reviewbody>
+    <reviewtitle>What sense do we make of the files?</reviewtitle>
+    <reviewer>shankar321</reviewer>
+    <reviewdate>2016-01-11 05:33:56</reviewdate>
+    <createdate>2016-01-11 05:33:56</createdate>
+    <stars>1</stars>
+  </review>
+  <review>
+    <reviewbody>The former limitation of 25 gigabytes for a torrent have been relaxed for this item, and the torrent is again working.
+
+If you want to parse these large XML files, you need to use a streaming parser. I'm not surprised that an XML editor would have problems with a 40 gigabyte XML file! Most XML parsing software libraries have a streaming option.</reviewbody>
+    <reviewtitle>.torrent is fixed</reviewtitle>
+    <reviewer>Greg Lindahl</reviewer>
+    <reviewdate>2016-03-18 21:42:30</reviewdate>
+    <createdate>2016-02-21 20:51:16</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>I have downloaded and extracted posts.xml file of stackoverflow. Size of the file is around 40 GB and I am not able to open it in xml editors. Can someone please suggest how to open or parse this huge file?</reviewbody>
+    <reviewtitle>How to open posts.xml file?</reviewtitle>
+    <reviewer>vishal14</reviewer>
+    <reviewdate>2016-03-05 21:04:24</reviewdate>
+    <createdate>2016-03-05 21:04:24</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>This dump was used to generate offline static version of stackoverflow websites as part of the kiwix.org project.
+
+http://download.kiwix.org/zim/stack_exchange/</reviewbody>
+    <reviewtitle>Excellent</reviewtitle>
+    <reviewer>amz3</reviewer>
+    <reviewdate>2017-07-09 12:18:32</reviewdate>
+    <createdate>2016-03-31 18:52:35</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>Looks like the torrent is out of date again, I'm stuck at 800MB whilst it continually tries to download files.</reviewbody>
+    <reviewtitle>Torrent out of date</reviewtitle>
+    <reviewer>Mooash</reviewer>
+    <reviewdate>2016-06-28 05:47:58</reviewdate>
+    <createdate>2016-06-28 05:47:58</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>Let me suggest you to add dates in YYYY-MM-DD or YYYYMMDD format into the filenames. For example: stackexchange-20161215/3dprinting.stackexchange.com.7z or stackexchange/3dprinting.stackexchange.com.20161215.7z</reviewbody>
+    <reviewtitle>Better filenames</reviewtitle>
+    <reviewer>fturco</reviewer>
+    <reviewdate>2017-03-05 10:48:25</reviewdate>
+    <createdate>2017-03-05 10:48:25</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>Why no softwareengineering.stackexchange?</reviewbody>
+    <reviewtitle>Incomplete</reviewtitle>
+    <reviewer>coder_chenzhi</reviewer>
+    <reviewdate>2017-03-24 12:04:16</reviewdate>
+    <createdate>2017-03-24 12:04:16</createdate>
+    <stars>3</stars>
+  </review>
+  <review>
+    <reviewbody>Being discussed at https://meta.stackexchange.com/questions/293127. A list of sites and their corresponding database filenames can be found there as well. 
+
+Also note: Info about sites and their corresponding file names can be indirectly obtained via the /sites API query (http://api.stackexchange.com/docs/sites): For every site, the file name will match either the primary URL of that site *or* the URL of one of that site's aliases. There are no exceptions beyond SO (whose dump is uniquely split among multiple files). 
+
+Sites that are very new relative to the archive date are not included in the dump.</reviewbody>
+    <reviewtitle>Documentation</reviewtitle>
+    <reviewer>JasonC3</reviewer>
+    <reviewdate>2017-04-01 17:22:09</reviewdate>
+    <createdate>2017-04-01 17:22:09</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>My first time dabbling with this data set and I am having fun.  Thanks for using a simple line-by-line XML format :)</reviewbody>
+    <reviewtitle>Great data set</reviewtitle>
+    <reviewer>Venkatesh Prasad</reviewer>
+    <reviewdate>2017-04-21 20:06:41</reviewdate>
+    <createdate>2017-04-21 02:57:35</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>Hi :)
+I can not use torrent (I am in Cuba)
+The only option for us is to download file with wget.
+However, when we try to download full stack exchange data dump we have a message:
+"total size of requested files (44 GB) is too large for zip-on-the-fly"
+
+Can I ask please to remove this limitation?</reviewbody>
+    <reviewtitle>File size limit</reviewtitle>
+    <reviewer>aNeutrino</reviewer>
+    <reviewdate>2017-07-14 15:57:49</reviewdate>
+    <createdate>2017-07-14 15:57:49</createdate>
+    <stars>4</stars>
+  </review>
+  <review>
+    <reviewbody>The file stackoverflow.com-PostLinks.7z seems to be corrupted. I can not unzip it...</reviewbody>
+    <reviewtitle>stackoverflow.com-PostLinks.7z corrupted</reviewtitle>
+    <reviewer>Muldones</reviewer>
+    <reviewer_itemname>@muldones</reviewer_itemname>
+    <reviewdate>2017-10-20 11:29:38</reviewdate>
+    <createdate>2017-10-20 11:29:38</createdate>
+    <stars>1</stars>
+  </review>
+  <review>
+    <reviewbody>I tried downloading this 4 times today and each time I'm getting a "Data Error" while extracting the Posts.xml file through 7zip. Can someone post the checksum for the Posts archive?</reviewbody>
+    <reviewtitle>Data Error</reviewtitle>
+    <reviewer>artoog2</reviewer>
+    <reviewer_itemname>@artoog2</reviewer_itemname>
+    <reviewdate>2017-11-05 17:32:21</reviewdate>
+    <createdate>2017-11-05 17:32:21</createdate>
+    <stars>1</stars>
+  </review>
+  <review>
+    <reviewbody>The dataset cannot be downloaded even though I am logged into archive.org.</reviewbody>
+    <reviewtitle>Not available for download</reviewtitle>
+    <reviewer>optimus9p</reviewer>
+    <reviewer_itemname>@optimus9p</reviewer_itemname>
+    <reviewdate>2018-02-19 14:55:45</reviewdate>
+    <createdate>2018-02-19 14:55:45</createdate>
+    <stars>1</stars>
+  </review>
+  <review>
+    <reviewbody>Did some of you guys manage to get the XML files into Stata? I really want to know how I can tackle this.</reviewbody>
+    <reviewtitle>XML file into Stata</reviewtitle>
+    <reviewer>nederlandsmeisje</reviewer>
+    <reviewer_itemname>@nederlandsmeisje</reviewer_itemname>
+    <reviewdate>2018-02-20 09:47:59</reviewdate>
+    <createdate>2018-02-20 09:47:59</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewbody>Despite my having signed in, access to virtually all files (except maybe 5 of them) is restricted and I have no idea why.</reviewbody>
+    <reviewtitle>Access restricted</reviewtitle>
+    <reviewer>RamtinYazdanian</reviewer>
+    <reviewer_itemname>@ramtinyazdanian</reviewer_itemname>
+    <reviewdate>2018-02-20 13:21:26</reviewdate>
+    <createdate>2018-02-20 13:21:26</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>Similar to the previous comment, I also am unable to download the files despite being logged in. Is the archive no longer available?</reviewbody>
+    <reviewtitle>No files available</reviewtitle>
+    <reviewer>jickerson</reviewer>
+    <reviewer_itemname>@jickerson</reviewer_itemname>
+    <reviewdate>2018-07-29 13:03:33</reviewdate>
+    <createdate>2018-07-29 13:03:33</createdate>
+    <stars>3</stars>
+  </review>
+  <review>
+    <reviewbody>I want to know every type of attribute in stackoverflow.com-Comments.7z. I did not find the link of this specific information.</reviewbody>
+    <reviewtitle>information about data</reviewtitle>
+    <reviewer>hearrywang</reviewer>
+    <reviewer_itemname>@hearrywang</reviewer_itemname>
+    <reviewdate>2018-10-17 09:11:33</reviewdate>
+    <createdate>2018-10-17 09:11:33</createdate>
+    <stars>4</stars>
+  </review>
+  <info>
+    <num_reviews>34</num_reviews>
+    <avg_rating>3.52</avg_rating>
+  </info>
+</reviews>
