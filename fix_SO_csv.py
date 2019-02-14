@@ -1,14 +1,10 @@
 
-
 import pandas
 
-df = pandas.read_csv('hrdata.csv')
-print(df)
-
-inputfile = "/Volumes/Data/skeptycal/Documents/current/_data_science/_stack_exchange/categories.csv"
+input_file = "/Volumes/Data/skeptycal/Documents/current/_data_science/_stack_exchange/categories.csv"
 cats = []
 
-df = pandas.read_csv('hrdata.csv')
+df = pandas.read_csv(input_file)
 print(df)
    
 
